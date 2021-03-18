@@ -3,9 +3,11 @@ Quality of life vital signs visual analysis :eye: for Baltimore's neighborhoods 
 
 ## WHAT & WHO
 
-## Goals
+### Goals
 Understand patterns with emphasis on __*housing equity*__, by slicing through the incredible amount of indicators data. 
 ❔ Which indicators can we seek to change to have the greatest affect on housing access and population stability, and how we set targets for them?
+
+[__View a dashboard of the indicators through an equitable housing lens on Tableau Public.__](https://public.tableau.com/profile/kathryn.hurchla#!/vizhome/BlueprintForBaltimoreVitalSignsDashboard/BuildBaltimoreBlueprintHomebyHome)
 
 ###
 Baltimore Neighborhood Indicators Alliance, a program of Jacob France Institute of the University of Baltimore, is a product of many community focused organizations and residents coming together to research, survey, objectively assess quality of life and collectively imagine its future.
@@ -18,9 +20,13 @@ Though not formally 'Sister Cities', I have long seen and learned from aligned e
 
 ❣️ _Did you know in 2019 Amtrak placed its bets on bypassing Philly, BMore Delaware's cities altogether to fast track New Yorkers to DC and back? [Amtrak skips Philly with new non-stop Acela train from New York to Washington](https://www.inquirer.com/transportation/amtrak-acela-washington-new-york-non-stop-philadelphia-20190725.html)_
 
+### That's interesting...
+If  you're inclined to collaborate, fork and suggest improvements to code, or comment to report a problem or suggest a feature or topic, thank you.
+
+
 ## HOW
 
-### Sounds good, and why exactly are we here again?
+### Sounds good, and how exactly are we going to contribute?
 In otherwords, I'm looking at what's happening where folk live all over the City map. BNIA-JFI and its Steering Committing established population stability as, essentially and in my own words, a pulse of Baltimoreans quality of life. Not leaving nor growing too fast, and leaving no neighborhood behind nor any neighbor from affording a choice of location and to stay. **I agree with their assessment that overcoming vacancy--_with a target of no more than 4% of vacant homes_--is a critical step.
 
 * In particular, surface _correlations_ that can act as actionable keys to opening wider pathways towards improvements in access to safe, affordable homes 
@@ -47,6 +53,4 @@ The files of all indicators for the #VitalSigns18 2010-2018 have been downloaded
 Python and Tableau Prep are used to prepare the data for visualization and correlation analysis.
 Visualization has been done with Tableau Desktop, and may extend to Python libraries (Matplotlib, Seaborn and related)
 
-[View a dashboard of the indicators through an equitable housing lens on Tableau Public.](https://public.tableau.com/profile/kathryn.hurchla#!/vizhome/BlueprintForBaltimoreVitalSignsDashboard/BuildBaltimoreBlueprintHomebyHome)
-
-[Route between Baltimore & Philly](khurchla.github.com/Baltimore-Neighborhood-Indicators/images/Baltimore, Maryland to Philadelphia, Pennsylvania - Google Maps.pdf)
+[Route between Baltimore & Philly](khurchla.github.com/Baltimore-Neighborhood-Indicators/images/Baltimore, Maryland to Philadelphia, Pennsylvania - Google Maps.png)
