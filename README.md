@@ -53,4 +53,4 @@ The files of all indicators for the #VitalSigns18 2010-2018 have been downloaded
 Python and Tableau Prep are used to prepare the data for visualization and correlation analysis.
 Visualization has been done with Tableau Desktop, and may extend to Python libraries (Matplotlib, Seaborn and related)
 
-[Route between Baltimore & Philly](khurchla.github.com/Baltimore-Neighborhood-Indicators/images/Baltimore, Maryland to Philadelphia, Pennsylvania - Google Maps.png)
+[Route between Baltimore & Philly](<img src="images/Baltimore, Maryland to Philadelphia, Pennsylvania - Google Maps.png")
