@@ -41,6 +41,7 @@ To add to the story and set additional complimentary targets:
 It's extremely important for us to acknowledge that correlation or any measure of information alone for that matter, cannot alone define a definite or finite cause amongst many known and unknown variables of any situation. 
 
 For more on that critical point, I recommend this article below on interpreting data when what we as humans really seek is to to find causes and solutions! Note I have no association with its author Charlie Kufs, and it reads with such simple clarity, yet depth and specifics I can put to use that I will personally be seeking out more of their writing on data and analysis.
+
 ℹ️ https://bigdata-madesimple.com/how-to-tell-if-correlation-implies-causation/
 
 
