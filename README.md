@@ -55,3 +55,7 @@ Python and Tableau Prep are used to prepare the data for visualization and corre
 Visualization has been done with Tableau Desktop, and may extend to Python libraries (Matplotlib, Seaborn and related)
 
 [//]: # (Route between Baltimore & Philly <img src="images/Baltimore, Maryland to Philadelphia, Pennsylvania - Google Maps.png">)
+
+<br>
+
+<a href="https://www.buymeacoffee.com/earthtokathy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
